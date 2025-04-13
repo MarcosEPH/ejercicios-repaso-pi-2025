@@ -1,0 +1,19 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene un total de **50 ejercicios prácticos** organizados por tema y nivel de dificultad.  \r Los ejercicios están pensados para reforzar los conocimientos adquiridos durante el curso de Programación I.",
+  "main": "Ejercicio1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosEPH/ejercicios-repaso-pi-2025.git"
+  },
+  "author": "Marcos Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosEPH/ejercicios-repaso-pi-2025/issues"
+  },
+  "homepage": "https://github.com/MarcosEPH/ejercicios-repaso-pi-2025#readme"
+}
